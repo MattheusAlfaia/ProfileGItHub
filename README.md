@@ -1,10 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/mattheus-cruz-alfaia-347484234/"><i>Mattheus Cruz Alfaia</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.alura.com.br"><i>Alura</i></a>
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Já me segue aí e vem codar comigo, vamos compartilhar conhecimento, vlw mesmo! 😉️</h2>
 </div>
 
 
