@@ -1,14 +1,15 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/mattheus-cruz-alfaia-347484234/"><i>Mattheus Cruz Alfaia</i></a> 😃️</h1>
   <ul>
-    <li>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</li>
-    <li>- 🎓 Formado em sistemas de informação na faculdade metropolitana de Manaus-AM.</li>
-    <li>- 💼 Trabalhando como dev full-stack at Instituto Educações.</li>
-    <li>- 🌱 Aprendendo Inglês.</li>
+    <li> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</li>
+    <li> 🎓 Formado em sistemas de informação na faculdade metropolitana de Manaus-AM.</li>
+    <li> 💼 Trabalhando como dev full-stack at Instituto Educações.</li>
+    <li> 🌱 Aprendendo Inglês.</li>
   </ul> 
 </div>
 
 <div align="center">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattheusAlfaia&theme=dracula&show_icons=true)
   <a href="https://github.com/MattheusAlfaia">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusAlfaia&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
