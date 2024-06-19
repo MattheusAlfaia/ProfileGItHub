@@ -1,8 +1,9 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/mattheus-cruz-alfaia-347484234/"><i>Mattheus Cruz Alfaia</i></a> 😃️</h1>
-  <p align="center">Altualmente Jr Full Stack</a>
-  </a><br>
-  <p align="center">Já me segue aí e vem codar comigo, vamos compartilhar conhecimento, vlw mesmo! 😉️</h2>
+   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+  - 🎓 Estudando {seu curso} no {faculdade}.
+  - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+  - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 </div>
 
 
