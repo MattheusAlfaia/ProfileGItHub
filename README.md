@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/mattheus-cruz-alfaia-347484234/"><i>Mattheus Cruz Alfaia</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.alura.com.br"><i>Alura</i></a>
+  <p align="center">Altualmente Jr Full Stack</a>
   </a><br>
   <p align="center">Já me segue aí e vem codar comigo, vamos compartilhar conhecimento, vlw mesmo! 😉️</h2>
 </div>
