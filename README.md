@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattheusAlfaia&theme=dracula&show_icons=true)
   <a href="https://github.com/MattheusAlfaia">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MattheusAlfaia&theme=dracula&show_icons=true&layout=compact"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusAlfaia&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
